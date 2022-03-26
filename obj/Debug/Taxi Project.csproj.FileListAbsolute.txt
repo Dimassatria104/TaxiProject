@@ -1,0 +1,8 @@
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\bin\Debug\Taxi Project.exe.config
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\bin\Debug\Taxi Project.exe
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\bin\Debug\Taxi Project.pdb
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\obj\Debug\Taxi Project.csproj.AssemblyReference.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\obj\Debug\Taxi Project.csproj.SuggestedBindingRedirects.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\obj\Debug\Taxi Project.csproj.CoreCompileInputs.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\obj\Debug\Taxi Project.exe
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Taxi Project\obj\Debug\Taxi Project.pdb
